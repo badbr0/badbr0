@@ -5,4 +5,4 @@
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badbr0&theme=highcontrast" alt="badbr0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badbr0&theme=dark" alt="badbr0" /></p>
