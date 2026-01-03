@@ -13,5 +13,5 @@
 </p>
 
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=badbr0&theme=dark" alt="badbr0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=badbr0&show_icons=true&theme=dark&hide_border=true" alt="badbr0 stats" />
 </div>
